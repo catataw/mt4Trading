@@ -1,0 +1,47 @@
+
+/buildsolutions
+/build
+/deploy
+/package
+/reports
+bin/
+obj/
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+*.obj
+bin/*/*.exe
+*.pdb
+*.pidb
+*.user
+*.aps
+*.pch
+*.docstates
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.dbmdl
+*.schemaview
+*.tlh
+*.bak
+#*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+*.docstates
+seq diagram1.png
+StyleCop.Cache
+[sS]ettings.[sS]tyle[cC]op
+/tools/[cC]ode[aA]nalysis/
+/tools/[sS]tyle[cC]op/
+seq diagram1.vsd
