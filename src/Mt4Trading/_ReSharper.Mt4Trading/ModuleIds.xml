@@ -1,3 +1,4 @@
 <Modules>
   <Module PersistentId="9D85ABD4-3F5D-4B83-8D1B-BD8926C7B7EC" ModuleId="Mt4Trading" />
+  <Module PersistentId="66CECEA9-9E5E-4F39-A06D-CC14DEB452D4" ModuleId="Mt4Trading.Tests" />
 </Modules>

@@ -7,8 +7,21 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="9D85ABD4-3F5D-4B83-8D1B-BD8926C7B7EC/d:SimpleMAStrategy/f:SimpleMaDecisionCalculator.cs" caret="577" fromTop="20" />
+      <File id="66CECEA9-9E5E-4F39-A06D-CC14DEB452D4/d:SimpleMAStrategy/f:SimpleMaTrendTypeCalculatorTests.cs" caret="0" fromTop="0" />
+      <File id="9D85ABD4-3F5D-4B83-8D1B-BD8926C7B7EC/d:SimpleMAStrategy/f:SimpleMaTrendTypeCalculator.cs" caret="343" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9D85ABD4-3F5D-4B83-8D1B-BD8926C7B7EC/d:SimpleMAStrategy/f:SimpleMaDecisionCalculator.cs" caret="206" fromTop="6" />
+      <File id="9D85ABD4-3F5D-4B83-8D1B-BD8926C7B7EC/d:SimpleMAStrategy/f:SimpleMaDecisionCalculator.cs" caret="405" fromTop="12" />
+      <File id="9D85ABD4-3F5D-4B83-8D1B-BD8926C7B7EC/d:SimpleMAStrategy/f:SimpleMaDecisionCalculator.cs" caret="84" fromTop="2" />
+      <File id="9D85ABD4-3F5D-4B83-8D1B-BD8926C7B7EC/d:SimpleMAStrategy/f:SimpleMaDecisionCalculator.cs" caret="577" fromTop="20" />
+      <File id="9D85ABD4-3F5D-4B83-8D1B-BD8926C7B7EC/d:SimpleMAStrategy/f:SimpleMaTrendTypeCalculator.cs" caret="108" fromTop="2" />
+      <File id="9D85ABD4-3F5D-4B83-8D1B-BD8926C7B7EC/d:SimpleMAStrategy/f:SimpleMaTrendTypeCalculator.cs" caret="352" fromTop="7" />
+      <File id="66CECEA9-9E5E-4F39-A06D-CC14DEB452D4/d:SimpleMAStrategy/f:SimpleMaTrendTypeCalculatorTests.cs" caret="550" fromTop="20" />
+      <File id="66CECEA9-9E5E-4F39-A06D-CC14DEB452D4/d:SimpleMAStrategy/f:SimpleMaTrendTypeCalculatorTests.cs" caret="0" fromTop="0" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -21,4 +34,39 @@
     </NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="7" />
+      <Item value="void" priority="2" />
+      <Item value="static" priority="4" />
+      <Item value="bool" priority="9" />
+      <Item value="return" priority="6" />
+      <Item value="null" priority="0" />
+      <Item value="double" priority="1" />
+      <Item value="if" priority="0" />
+      <Item value="ma70Price" priority="2" />
+      <Item value="ma21Price" priority="1" />
+      <Item value="true" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="Assert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Runtime.InteropServices.CallingConvention">
+      <Item value="StdCall" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Boolean">
+      <Item value="Parse`0" priority="3" />
+      <Item value="TrueString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WindowHeight" priority="0" />
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Mt4Trading.SimpleMAStrategy.SimpleMaTrendTypeCalculator">
+      <Item value="IsBuyTrend`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MbUnit.Framework.Assert">
+      <Item value="IsTrue`0" priority="0" />
+      <Item value="IsFalse`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

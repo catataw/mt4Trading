@@ -3,6 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mt4Trading", "Mt4Trading\Mt4Trading.csproj", "{9D85ABD4-3F5D-4B83-8D1B-BD8926C7B7EC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E823780E-DB85-4BAC-8BA7-8E54D7D9E88A}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mt4Trading.Tests", "Mt4Trading.Tests\Mt4Trading.Tests.csproj", "{66CECEA9-9E5E-4F39-A06D-CC14DEB452D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +22,10 @@ Global
 		{9D85ABD4-3F5D-4B83-8D1B-BD8926C7B7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D85ABD4-3F5D-4B83-8D1B-BD8926C7B7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D85ABD4-3F5D-4B83-8D1B-BD8926C7B7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66CECEA9-9E5E-4F39-A06D-CC14DEB452D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CECEA9-9E5E-4F39-A06D-CC14DEB452D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CECEA9-9E5E-4F39-A06D-CC14DEB452D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CECEA9-9E5E-4F39-A06D-CC14DEB452D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
